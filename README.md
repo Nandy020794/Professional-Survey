@@ -1,10 +1,12 @@
-# Professional-Survey
-Professional Survey Data Analysis Dashboard
+#Professional Survey Data Analysis Dashboard
 Overview
 This Power BI dashboard provides a detailed breakdown of a professional survey, focusing on data professionals' job roles, salary insights, programming language preferences, and work-life balance. The visualizations help analyze key factors such as average salary by job role, the difficulty of entering the data field, and overall satisfaction levels.
 
-Key Features
+
+
+#Key Features
 Survey Demographics:
+![Screenshot 2024-10-16 231405](https://github.com/user-attachments/assets/a133340a-f5ef-4fd0-b8fc-1c2f4ce4b7aa)
 
 Visual representation of survey participants by country.
 Total number of survey respondents: 630
@@ -20,7 +22,7 @@ Difficulty to Enter the Data Field:
 Donut chart depicting how respondents rated the difficulty of breaking into data roles, ranging from "Very Easy" to "Very Difficult."
 Happiness Metrics:
 
-Gauge visualizations for:
+#Gauge visualizations for:
 Happiness with Salary: Average rating of 4.27 out of 10.
 Happiness with Work-Life Balance: Average rating of 5.74 out of 10.
 Dashboard Visualizations
@@ -30,10 +32,10 @@ Favorite Programming Language: A bar chart illustrating the most popular program
 Difficulty to Break into Data: A donut chart indicating how difficult respondents found it to enter data-related roles.
 Happiness with Salary: A gauge displaying an average satisfaction score of 4.27.
 Happiness with Work-Life Balance: A gauge displaying an average satisfaction score of 5.74.
-Data Sources
+#Data Sources
 The data used in this dashboard comes from a professional survey that gathered insights from participants in various roles within the data field.
 
-Data Fields:
+#Data Fields:
 Country of respondents
 Job titles: Data Scientist, Data Architect, Data Engineer, Data Analyst, etc.
 Salary information: Average salary for each job role.
